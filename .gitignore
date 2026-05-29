@@ -9,6 +9,8 @@ __pycache__/
 .env
 .venv/
 bk-eda-env/
+bk-etl-env/
+nex-sql-env/
 
 # Data — never commit raw or processed data files
 data/*.csv
